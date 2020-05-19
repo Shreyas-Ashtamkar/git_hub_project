@@ -31,3 +31,4 @@ elif (year%4==0):
 	print("True")
 else:
 	print("False")
+#Added new Line
